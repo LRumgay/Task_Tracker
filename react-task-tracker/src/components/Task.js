@@ -14,3 +14,5 @@ const Task = ({ task, onDelete, onToggle }) => {
         </div>
     )
 }
+
+export default Task
